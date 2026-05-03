@@ -1,0 +1,1 @@
+export default function AdminProducts(){return <div className="container-luxe pb-16"><h1 className="font-display text-4xl">Manage Products</h1><p className="mt-3 text-muted">Create, edit, delete products, upload images, set MOQ, stock, material, and featured status.</p></div>}
