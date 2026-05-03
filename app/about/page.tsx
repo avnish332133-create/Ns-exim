@@ -1,0 +1,1 @@
+export default function AboutPage(){return <div className="container-luxe pb-16"><h1 className="font-display text-4xl">About NS EXIM</h1><p className="mt-5 max-w-3xl text-muted">NS EXIM is a leather belt manufacturing and export partner focused on craftsmanship, quality assurance, and bulk supply agility.</p></div>}

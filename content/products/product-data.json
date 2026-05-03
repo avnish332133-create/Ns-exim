@@ -1,0 +1,6 @@
+[
+  {"slug":"classic-cognac-belt","name":"Classic Cognac Belt","category":"Formal","price":850,"material":"Full Grain Leather","minOrder":100,"stock":"In Stock","sku":"NSX-COG-101","image":"/content/images/products/cognac.jpg","description":"Hand-finished full-grain leather belt with polished buckle."},
+  {"slug":"espresso-reversible-belt","name":"Espresso Reversible Belt","category":"Formal","price":920,"material":"Top Grain Leather","minOrder":80,"stock":"In Stock","sku":"NSX-ESP-209","image":"/content/images/products/espresso.jpg","description":"Reversible design with dual-tone finish for versatile collections."},
+  {"slug":"vintage-casual-belt","name":"Vintage Casual Belt","category":"Casual","price":760,"material":"Distressed Leather","minOrder":120,"stock":"Low Stock","sku":"NSX-VIN-320","image":"/content/images/products/vintage.jpg","description":"Textured vintage leather with antique buckle detailing."},
+  {"slug":"minimal-black-belt","name":"Minimal Black Belt","category":"Premium","price":980,"material":"Italian Leather","minOrder":60,"stock":"In Stock","sku":"NSX-BLK-450","image":"/content/images/products/black.jpg","description":"Refined silhouette with luxury matte buckle and edge paint."}
+]
